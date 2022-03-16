@@ -18,3 +18,5 @@ My mines game on C++ SDL2.
 </ul>
 
 <img src="assets/field0.png">
+
+<video src="letsplay.mp4">
