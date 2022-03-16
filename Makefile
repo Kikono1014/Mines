@@ -6,7 +6,7 @@ FILES = ./framework/framework.cpp ./gameObject/gameObject.cpp ./button/button.cp
 LIBS = -lSDL2 -lSDL2_image -lSDL2_ttf
 
 all:
-	${COMPILER} ${LIBS} ${FILES} ./main.cpp -o ./${OUT}
+	${COMPILER} -O3 ${LIBS} ${FILES} ./main.cpp -o ./${OUT}
 
 run: all
 	./${OUT}
