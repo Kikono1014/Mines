@@ -10,5 +10,5 @@ Controlls:
     5 - 24x16, 50 bombs
     6 - 24x16, 70 bombs
     7 - 32x16, 70 bombs
-    8 - 32x16, 100 bombs
-    9 - 32x16, 200 bombs
+    8 - 32x16, 100 bombs\n
+    9 - 32x16, 200 bombs 
