@@ -16,3 +16,5 @@ My mines game on C++ SDL2.
     <li>LMB - open field</li>
     <li>RMB - set flag</li>
 </ul>
+
+<img src="assets/field0.png">
