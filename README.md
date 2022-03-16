@@ -17,7 +17,17 @@ My mines game on C++ SDL2.
     <li>RMB - set flag</li>
 </ul>
 
+# Textures
 <img src="assets/field0.png">
+<img src="assets/field1.png">
+<img src="assets/field2.png">
+<img src="assets/field3.png">
+<img src="assets/field4.png">
+<img src="assets/field5.png">
+<img src="assets/field6.png">
+<img src="assets/field7.png">
+<img src="assets/field8.png">
+<img src="assets/field9.png">
 
 <video width="320" height="240" autoplay>
   <source src="./letsplay.mp4" type="video/mp4">
