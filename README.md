@@ -24,43 +24,43 @@ https://user-images.githubusercontent.com/69923041/158681139-e1550ebe-f78e-4267-
 # Textures
 <img src="assets/field.png" width="200px">
     Standart closed field
-    ** **
+    <br>
 <img src="assets/field0.png">
     Opened empty field
-    ** **
+    <br>
 <img src="assets/field1.png">
     Opened field of 1 bomb around
-    ** **
+    <br>
 <img src="assets/field2.png">
     Opened field of 2 bombs around
-    ** **
+    <br>
 <img src="assets/field3.png">
     Opened field of 3 bombs around
-    ** **
+    <br>
 <img src="assets/field4.png">
     Opened field of 4 bombs around
-    ** **
+    <br>
 <img src="assets/field5.png">
     Opened field of 5 bombs around
-    ** **
+    <br>
 <img src="assets/field6.png">
     Opened field of 6 bombs around
-    ** **
+    <br>
 <img src="assets/field7.png">
     Opened field of 7 bombs around
-    ** **
+    <br>
 <img src="assets/field8.png">
     Opened field of 8 bombs around
-    ** **
+    <br>
 <img src="assets/field9.png">
     Opened bomb field in lose
-    ** **
+    <br>
 <img src="assets/fieldClearedBomb.png">
     Opened bomb field in win
-    ** **
-<img src="assets/fieldFlag.png" size="200px">
+    <br>
+<img src="assets/fieldFlag.png" width="200px">
     Closed field with flag
-    ** **
+    <br>
 
 
 
