@@ -1,8 +1,8 @@
 # Mines
 My mines game on C++ SDL2.
-
+<ul></ul>
 Controlls:
-    r - reset map;
+    r - reset map
     1 - 8x8, 10 bombs
     2 - 8x8, 20 bombs
     3 - 16x16, 30 bombs
@@ -10,5 +10,7 @@ Controlls:
     5 - 24x16, 50 bombs
     6 - 24x16, 70 bombs
     7 - 32x16, 70 bombs
-    8 - 32x16, 100 bombs\n
-    9 - 32x16, 200 bombs 
+    8 - 32x16, 100 bombs
+    9 - 32x16, 200 bombs
+    LMB - open field
+    RMB - set flag
